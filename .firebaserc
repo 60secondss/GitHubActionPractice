@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "newpro-8871a",
+    "staging": "newpro-8871a"
+  },
+  "targets": {},
+  "etags": {}
 }
